@@ -51,5 +51,5 @@ six==1.14.0
 soupsieve==1.9.5
 tqdm==4.42.0
 traitlets==4.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 zipp==0.6.0
